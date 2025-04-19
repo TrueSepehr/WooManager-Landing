@@ -48,7 +48,6 @@
   <p>
     <strong>Let's connect:</strong><br />
     <a href="mailto:sepehr.mzn@gmail.com">Email</a> | 
-    # <a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn</a>
   </p>
 </section>
 
