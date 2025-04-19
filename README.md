@@ -3,51 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>WooManager - Android App Portfolio</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    header {
-      background-color: #7c496f;
-      color: white;
-      padding: 2rem;
-      text-align: center;
-    }
-    h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-    section {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-    }
-    .tech, .features {
-      background: #fff;
-      border-left: 4px solid #7c496f;
-      padding: 1rem;
-      margin-top: 1.5rem;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-    }
-    footer {
-      text-align: center;
-      padding: 1.5rem;
-      font-size: 0.9rem;
-      color: #888;
-    }
-    a {
-      color: #7c496f;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
 </head>
 <body>
 
@@ -59,6 +14,11 @@
 <section>
   <h2>📱 About the App</h2>
   <p>WooManager helps you manage your WooCommerce store directly from your Android device. Whether you're checking stock, managing orders, or browsing product details — it's all in your pocket.</p>
+</section>
+
+<section>
+  <h2>📸 App Preview</h2>
+  <img src="AppPreview.jpg" alt="WooManager app screens preview" style="max-width:100%; height:auto; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
 </section>
 
 <section class="features">
