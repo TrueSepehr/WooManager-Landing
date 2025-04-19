@@ -47,7 +47,7 @@
   <p>I’m a passionate Android developer focused on clean code, performance, and great user experiences. WooManager is a reflection of my skillset and attention to detail.</p>
   <p>
     <strong>Let's connect:</strong><br />
-    <a href="mailto:sepehr.mzn@gmail.com">Email</a> | 
+    <a href="mailto:sepehr.mzn@gmail.com">Email</a>
   </p>
 </section>
 
